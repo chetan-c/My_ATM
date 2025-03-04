@@ -1,2 +1,2 @@
-# My_ATM
+# ATM
  ATM Program with using c language.
